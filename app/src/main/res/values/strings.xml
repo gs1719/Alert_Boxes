@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alert Boxes</string>
+    <string name="text1">Alert Dialogue Box in Detail</string>
+
+    <string name="btn1">Type 1 </string>
+    <string name="btn2">Type 2</string>
+    <string name="btn3">Type 3</string>
+</resources>
